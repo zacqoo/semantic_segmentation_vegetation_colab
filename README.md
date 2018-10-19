@@ -4,7 +4,7 @@ U-Net trained on satellite imagery/ drone imagery to segment aquatic vegetation 
 Keras implementation, TensorFlow backend
 
 ## Introduction
-In this project, we apply [U-Net](https://lmb.informatik.uni-freiburg.de/people/ronneber/u-net/) for semantic segmentation task on satellite imagery and drone imagery. We segment the aquatic vegetations, called "ceratophyllum" related to schistosomiasis in Senegal, Africa. Cerayophyllum appears to be dark blue color floating on rivers and lakes on drone and satellite images. From the segmentation, we are able to create disease hotspot to evaluate infection risks in the area to better inform local disease control authority and make disease control more efficient.
+In this project, we apply [U-Net](https://lmb.informatik.uni-freiburg.de/people/ronneber/u-net/) for semantic segmentation task on satellite imagery and drone imagery. We segment the aquatic vegetations, called "ceratophyllum" related to schistosomiasis in Senegal, Africa. Cerayophyllum appears to be dark blue color floating on rivers and lakes on drone and satellite images. From the segmentation, we are able to create maps of disease hotspot to evaluate infection risks in the area to better inform local disease control authority and make disease control more efficient.
 
 ## Code
 See Colab (Jupyter) notebooks "main_keras_flow.ipynb" for more details. The code can be used for other objects in satellite/ drone images.
