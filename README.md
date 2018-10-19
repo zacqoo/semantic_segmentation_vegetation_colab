@@ -10,7 +10,10 @@ In this project, we apply [U-Net](https://lmb.informatik.uni-freiburg.de/people/
 See Colab (Jupyter) notebooks "main_keras_flow.ipynb" for more details. The code can be used for other objects in satellite/ drone images.
 
 ## Create masks
-We use [Labelbox](https://www.labelbox.com/) to create mask on target vegetation features, as a team effort. Labelbox allows multiple users to label/ create masks on the images together. 
+We use [Labelbox](https://www.labelbox.com/) to create mask on target vegetation features, as a team effort. Labelbox allows multiple users to label/ create masks on the images together.
+
+![sample_1.jpeg](sample_1.jpeg)
+![sample_1_mask.png](sample_1_mask.png)
 
 ## Pre-trained model
 We also utilized VGG16 for training the model. See "main_keras_vgg16.ipynb" for U-Net and VGG16 architecture.
