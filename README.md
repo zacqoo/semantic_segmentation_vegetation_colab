@@ -19,6 +19,8 @@ We also utilized VGG16 for training the model. See "main_keras_vgg16.ipynb" for 
 
 (already installed with Google Colab environment)
 
+## Sample images and segmentation (in red)
+
 ![drone_sample.JPG](drone_sample.JPG)
 ![drone_seg_sample.png](drone_seg_sample.png)
 
