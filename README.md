@@ -16,6 +16,7 @@ We also utilized VGG16 for training the model. See "main_keras_vgg16.ipynb" for 
 - Python 3
 - Keras 2
 - TensorFlow 1.2
+
 (already installed with Google Colab environment)
 
 ![drone_sample.JPG](drone_sample.JPG)
