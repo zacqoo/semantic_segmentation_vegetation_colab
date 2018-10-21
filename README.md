@@ -30,4 +30,5 @@ We also utilized VGG16 for training the model. See "main_keras_vgg16.ipynb" for 
 ![drone_sample.JPG](drone_sample.JPG)
 ![drone_seg_sample.png](drone_seg_sample.png)
 
-
+## Team
+Zac Liu, Lance Lamore, Andy Chamberlin from Stanford University
